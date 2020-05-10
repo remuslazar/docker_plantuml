@@ -1,4 +1,4 @@
-FROM openjdk:14-jdk-alpine3.10
+FROM openjdk:8-jre-alpine
 MAINTAINER think@hotmail.de
 ENV PLANTUML_VERSION=1.2019.11
 ENV LANG en_US.UTF-8

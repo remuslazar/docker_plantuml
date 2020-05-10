@@ -1,4 +1,4 @@
 .PHONY: build
 
 build:
-	docker build -t remuslazar:plantuml .
+	docker build -t remuslazar/plantuml .
